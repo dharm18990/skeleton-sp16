@@ -11,6 +11,12 @@ public class Year {
         return true;    // YOUR CODE HERE
     }
 
+    /** Calls isLeapYear to print correct statement.   
+     */
+    private static void checkLeapYear() {
+        checkLeapYear();
+    }
+
     /** Calls isLeapYear to print correct statement.
      *  @param  year to be analyzed
      */

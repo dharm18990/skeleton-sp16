@@ -1,4 +1,4 @@
-~ number: 1
+ ~ number: 1
 ~ title: Packages, Interfaces, Generics, Exceptions, Iteration
 
 Table of Contents
